@@ -1,0 +1,16 @@
+name: fhir-test-cases
+id: ari:cloud:compass:81e7ee9d-1fb0-4307-803e-054742333e2c:component/9cbdb48c-f9bc-40d6-908c-f03428e02f4c/5e9b9da5-222b-42aa-8a0b-df90d0d77084
+description: Shared test cases across multiple FHIR reference implementations / validators
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/catoailabs/fhir-test-cases
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
